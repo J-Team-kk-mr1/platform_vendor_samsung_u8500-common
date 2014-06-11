@@ -145,6 +145,7 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/system/lib/hw/audio.primary.montblanc.so:system/lib/hw/audio.primary.montblanc.so \
     $(LOCAL_PATH)/system/lib/hw/audio_policy.montblanc.so:system/lib/hw/audio_policy.montblanc.so \
     $(LOCAL_PATH)/system/lib/libaudiopolicy_sec.so:system/lib/libaudiopolicy_sec.so \
+    $(LOCAL_PATH)/system/lib/libaudiosa.so:system/lib/libaudiosa.so \
     $(LOCAL_PATH)/system/lib/lib_Samsung_SB_AM_for_ICS_v03008.so:system/lib/lib_Samsung_SB_AM_for_ICS_v03008.so \
     $(LOCAL_PATH)/system/lib/lib_SamsungRec_V01006.so:system/lib/lib_SamsungRec_V01006.so \
     $(LOCAL_PATH)/system/lib/libbassapp.so:system/lib/libbassapp.so \
